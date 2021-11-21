@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey! :wave:
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=aadityaneve.Clone-Pluralsight) [![GitHub followers](https://img.shields.io/github/followers/aadityaneve.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/aadityaneve?tab=followers)
 
-<!--
-**aadityaneve/aadityaneve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Aditya Neve!
+* Currently: Full Stack Web-Development at Masai School.
+* Previously: B.Cs at Modern College, Pune.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I'm Currently Learning
+
+## Masai School
+* HTML / CSS
+* Node
+* JavaScript
+* Express
+* React
+* MongoDB
+* Redux
