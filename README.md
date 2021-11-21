@@ -16,3 +16,5 @@ I'm Aditya Neve!
 * React
 * MongoDB
 * Redux
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityaneve&show_icons=true&theme=radical)
