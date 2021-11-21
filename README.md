@@ -23,4 +23,4 @@ As a software engineer, I enjoy my obsession with attention to detail, my unique
 
 ### :chart_with_upwards_trend: My GitHub State:
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityaneve&show_icons=true&theme=default&hide_border=true&layout=compact&hide=issues&line_height=24&count_private=true&include_all_commits=true&hide_rank=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaneve&layout=compact&hide_border=true)](https://github.com/aadityaneve/github-readme-stats)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityaneve&show_icons=true&theme=default&hide_border=true&layout=compact&hide=issues&line_height=24&count_private=true&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaneve&layout=compact&hide_border=true)](https://github.com/aadityaneve/github-readme-stats)
