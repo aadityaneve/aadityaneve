@@ -19,7 +19,7 @@ As a software engineer, I enjoy my obsession with attention to detail, my unique
 
 ### :bar_chart: This Weak I Spent My time On:
 
-[![Aditya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aadityaneve&hide_border=true)](https://github.com/aadityaneve/github-readme-stats)
+[![Aditya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aadityaneve&hide_border=true&v=2)](https://github.com/aadityaneve/github-readme-stats)
 
 ### :chart_with_upwards_trend: My GitHub State:
 
