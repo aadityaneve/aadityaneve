@@ -9,8 +9,9 @@ I am a Full-Stack Web Developer and I love Programming and traveling.
 As a software engineer, I enjoy my obsession with attention to detail, <br />my unique love for making things that changes the world.
 <br />That's why I like to make things that make a difference.
 
-- Currently: Full Stack Web-Development at Masai School.
-- Previously: B.Cs at Modern College, Pune.
+- Currently: Associate Software Engineer at Tricog Health
+- Previously: Full Stack Web-Development from Masai School.
+              B.Cs at Modern College, Pune.
 
 # I'm Currently Learning <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="33"/>
 
