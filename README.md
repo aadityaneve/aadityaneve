@@ -9,7 +9,7 @@ I am a Full-Stack Web Developer and I love Programming and traveling.
 As a software engineer, I enjoy my obsession with attention to detail, <br />my unique love for making things that changes the world.
 <br />That's why I like to make things that make a difference.
 
-- Currently: Associate Software Engineer at Tricog Health
+- Currently: Software Engineer at Tricog Health
 - Previously: Full Stack Web-Development from Masai School.
               B.Cs at Modern College, Pune.
 
